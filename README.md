@@ -1,1 +1,1 @@
-# Blood_Bank-Website
+# Seat Booking app for auditorium
